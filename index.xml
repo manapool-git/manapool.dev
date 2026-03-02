@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Manapool.dev</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Manapool.dev</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 25 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why does this website exist?</title>
+      <link>http://localhost:1313/blog/building_a_website/</link>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/building_a_website/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;d always liked the idea of owning a personal website, but I&amp;rsquo;d never really found the motivation to learn how to build one.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
